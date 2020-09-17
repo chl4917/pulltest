@@ -3,6 +3,7 @@ package com.git;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+        System.out.print("pull은 어떻게 해야 되는 거죠???");
     }
 }
